@@ -5,3 +5,4 @@ TECHNOLOGIES USED
 java
 GitHub
 VS Code
+another week learning class constructors and scanner / fundamental programming structures
